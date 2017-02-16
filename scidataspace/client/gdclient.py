@@ -22,7 +22,7 @@ from scidataspace.client.commands.geounit import parse_cmd_geounit
 from scidataspace.client.commands.annotate import parse_cmd_annotate
 from scidataspace.client.commands.add_member import parse_cmd_add_member
 from scidataspace.client.commands.package import parse_cmd_package
-from scidataspace.client.commands.transfer import parse_cmd_transfer
+#from scidataspace.client.commands.transfer import parse_cmd_transfer
 from scidataspace.client.commands.track import parse_cmd_track
 
 import warnings

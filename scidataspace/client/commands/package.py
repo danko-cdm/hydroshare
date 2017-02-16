@@ -1,6 +1,6 @@
 from scidataspace.client.commands.util import UNDEFINED,is_geounit_selected, run_command
 from scidataspace.client.commands._leveldb2json import create_graph
-from scidataspace.client.commands.transfer import globus_transfer
+#from scidataspace.client.commands.transfer import globus_transfer
 
 import docker
 import json

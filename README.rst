@@ -28,3 +28,8 @@ The client requires a goauth token to authenticate.
 For time being:
 mkdir ~/.gdclient
 copy config.ini to ~/.gdclient
+
+
+Known Errors:
+error: Setup script exited with error in docker-py setup command: Invalid environment marker: python_version < "3.5"
+Run: pip install setuptools --upgrade
